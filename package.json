@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "integrating tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmystical-coder/nerdsville-hackfest-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmystical-coder/nerdsville-hackfest-frontend/issues"
+  },
+  "homepage": "https://github.com/dmystical-coder/nerdsville-hackfest-frontend#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
